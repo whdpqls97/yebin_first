@@ -1,0 +1,24 @@
+html,
+body {
+    height: 100%;
+    font-family: "Open Sans", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: plum;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+p {
+    font-size: 13px;
+    color:blue;
+    line-height: 100%;
+}
+
+img {
+    max-width: 100%;
+}
